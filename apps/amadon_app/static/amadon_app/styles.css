@@ -1,0 +1,35 @@
+#wrapper{
+    position: relative;
+    width: 750px;
+
+}
+#middle{
+    border: 1px solid black;
+    height: 240px;
+    width: 745px;
+}
+#item{
+    position: absolute;
+    left: 0;
+    width: 300px;
+    display: inline-block;
+    margin-left: 15px;
+}
+#price{
+    position: absolute;
+    left: 305px;
+    width: 300px;
+    display: inline-block;
+
+}
+#actions{
+    position: absolute;
+    left: 610px;
+    width: 300px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-decoration: underline;
+}
